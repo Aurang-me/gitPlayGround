@@ -1,0 +1,10 @@
+git init // to initialize a repository
+
+git status // to check the repo status
+
+git add <filename> // to add a specific file to staging
+
+git add . // to add all files to staging
+
+git commit -m "<message>" // to commit staged changes on current branch
+
